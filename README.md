@@ -252,4 +252,3 @@ Where VAAK instances overlap with published multilingual software-engineering da
 ### Audio Evaluation
 
 Synthesized audio clips are manually inspected to determine whether they are human-intelligible and whether protected software spans are audible.
-
